@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hands_on_React/static/css/main.f446aaf7.css",
+    "main.js": "/hands_on_React/static/js/main.1f97db3b.js",
+    "index.html": "/hands_on_React/index.html",
+    "main.f446aaf7.css.map": "/hands_on_React/static/css/main.f446aaf7.css.map",
+    "main.1f97db3b.js.map": "/hands_on_React/static/js/main.1f97db3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f446aaf7.css",
+    "static/js/main.1f97db3b.js"
+  ]
+}
